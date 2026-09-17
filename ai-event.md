@@ -18,7 +18,7 @@ flowchart LR
     A[AI Development] --> B[New Tools]
     B --> C[People Use AI]
     C --> D[New Ideas]
-
+```
     ## Learn More
 
 - [Global Event](global-event.md)
