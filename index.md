@@ -9,4 +9,4 @@ Welcome to my Current Events project.
 
 ## Image
 
-![Current Events](images/current-events.png)
+![Current Events](current-events.png)
